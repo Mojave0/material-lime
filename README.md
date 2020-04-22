@@ -1,2 +1,2 @@
 # material-lime
-a theme for aroma installer 
+![GitHub Logo](/images/logo.png)
